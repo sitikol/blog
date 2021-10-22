@@ -3,6 +3,7 @@ author = "Siti Kholilah"
 bg_image = ""
 date = ""
 description = ""
+draft = true
 github_link = ""
 tags = []
 title = "PERKENALAN"
