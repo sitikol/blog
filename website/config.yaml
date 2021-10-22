@@ -31,9 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Siti kholilah"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Pelajar"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -42,17 +42,17 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Halo perkenalkan, nama saya siti kholilah, saya sekolah di SMKN pasirian, saya mengambil jurusan multimedia,saya suka menulis, hobi saya bermain badminton, ."
+  descripe_l2_person: "Alamat saya karanganyar kalibendo, Cita-cita saya menjadi pengusaha"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
+    - name: memasak
+      percentage: 75
+    - name: memancing
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: foto
+      percentage: 90
+    - name: mencuci baju
+      percentage: 100
 
   # Experience
   disable_experience: false
